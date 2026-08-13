@@ -41,7 +41,7 @@ Intelligent Vision-Based Emergency Detection and Action System
 
 An AI-powered emergency detection system designed to detect road accidents and roadside fires using computer vision.
 
-- Technologies: 
+Technologies: 
 
 - Python ·
 - YOLO ·
@@ -57,8 +57,8 @@ An AI-powered emergency detection system designed to detect road accidents and r
  
  ## 🎓 Education
 
-Arab American University – Jenin
-Bachelor's Degree in Computer Systems Engineering · 2021 – 2026
+- Arab American University – Jenin
+- Bachelor's Degree in Computer Systems Engineering · 2021 – 2026
 
 ## 📫 Connect With Me
 
