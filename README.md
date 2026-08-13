@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Sara Abu Arra 👋
 
-<!--
-**saraabuarra/saraabuarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Systems Engineering Graduate
+🧪 QA & Software Testing | Manual Testing | API Testing | Test Automation
+📍 Tubas, Palestine
 
-Here are some ideas to get you started:
+## 👩🏻‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Systems Engineering graduate with a strong foundation in Quality Assurance, software testing, software development, and database management.
+
+I have practical experience in manual testing, API testing using Postman, and test automation using Playwright. I also have experience developing web and mobile applications and working with AI-based computer vision projects.
+
+I'm passionate about learning new technologies, solving problems, and building reliable and high-quality software.
+
+ ## 🧪 QA & Testing
+Manual Testing
+API Testing
+Test Automation
+Test Case Design
+Bug Reporting
+SDLC / STLC
+Postman
+Playwright
+
+ ## 💻 Technical Skills
+Python
+JavaScript
+SQL
+Dart
+Flutter
+HTML / CSS
+Git & GitHub
+MySQL
+Oracle APEX
+Computer Vision
+Machine Learning
