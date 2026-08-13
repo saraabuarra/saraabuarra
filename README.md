@@ -53,4 +53,17 @@ An AI-powered emergency detection system designed to detect road accidents and r
 - Roboflow ·
 - Google Colab
 
-# 🔗 Project: RoadGuard
+ 🔗 Project: RoadGuard
+ 
+ ## 🎓 Education
+
+Arab American University – Jenin
+Bachelor's Degree in Computer Systems Engineering · 2021 – 2026
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Sara Abu Arra
+
+- 📧 Email: saraaburra71@gmail.com
+
+- 💻 GitHub: saraabuarra
