@@ -1,8 +1,8 @@
 ## Hi, I'm Sara Abu Arra 👋
 
-🎓 Computer Systems Engineering Graduate
-🧪 QA & Software Testing | Manual Testing | API Testing | Test Automation
-📍 Tubas, Palestine
+- 🎓 Computer Systems Engineering Graduate
+- 🧪 QA & Software Testing | Manual Testing | API Testing | Test Automation
+- 📍 Tubas, Palestine
 
 ## 👩🏻‍💻 About Me
 
