@@ -13,24 +13,24 @@ I have practical experience in manual testing, API testing using Postman, and te
 I'm passionate about learning new technologies, solving problems, and building reliable and high-quality software.
 
  ## 🧪 QA & Testing
-Manual Testing
-API Testing
-Test Automation
-Test Case Design
-Bug Reporting
-SDLC / STLC
-Postman
-Playwright
+- Manual Testing
+- API Testing
+- Test Automation
+- Test Case Design
+- Bug Reporting
+- SDLC / STLC
+- Postman
+- Playwright
 
  ## 💻 Technical Skills
-Python
-JavaScript
-SQL
-Dart
-Flutter
-HTML / CSS
-Git & GitHub
-MySQL
-Oracle APEX
-Computer Vision
-Machine Learning
+- Python
+- JavaScript
+- SQL
+- Dart
+- Flutter
+- HTML / CSS
+- Git & GitHub
+- MySQL
+- Oracle APEX
+- Computer Vision
+- Machine Learning
