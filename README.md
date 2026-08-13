@@ -34,3 +34,23 @@ I'm passionate about learning new technologies, solving problems, and building r
 - Oracle APEX
 - Computer Vision
 - Machine Learning
+  ## 🚀 Featured Projects
+ # RoadGuard
+
+Intelligent Vision-Based Emergency Detection and Action System
+
+An AI-powered emergency detection system designed to detect road accidents and roadside fires using computer vision.
+
+# Technologies: 
+-
+- Python ·
+- YOLO ·
+- Raspberry Pi ·
+- GPS ·
+- FastAPI ·
+- Flutter ·
+- Firebase ·
+- Roboflow ·
+- Google Colab
+
+# 🔗 Project: RoadGuard
