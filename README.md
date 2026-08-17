@@ -53,7 +53,7 @@ Technologies:
 - Roboflow ·
 - Google Colab
 
- 🔗 Project: RoadGuard
+🔗 **Project:** [RoadGuard](https://github.com/saraabuarra/RoadGuard)
  
  ## 🎓 Education
 
